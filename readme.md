@@ -1,33 +1,34 @@
-STEP 01. HANDLE DIV
 
-Implement React.createElement(element, attributes, children)
-Implement ReactDOM.render(react_element, dom_element)
-Add div function
+# STEP 01. HANDLE DIV
 
-STEP 02. HANDLE GENERIC TAGS
+## Implement React.createElement(element, attributes, children)
+## Implement ReactDOM.render(react_element, dom_element)
+## Add div function
 
-Add anElement function
+# STEP 02. HANDLE GENERIC TAGS
 
-STEP 03. HANDLE NON DOM element
+## Add anElement function
 
-Add function component
-Add proper way to append each child aka DOM children
-Add class component
+# STEP 03. HANDLE NON DOM element
 
-STEP 04. HANDLE PROPS
+## Add function component
+## Add proper way to append each child aka DOM children
+## Add class component
 
-Passing props to stateless component
-Passing props to class component
-Add Component inheritance
+# STEP 04. HANDLE PROPS
 
-STEP 05. HANDLE STATE
+## Passing props to stateless component
+## Passing props to class component
+## Add Component inheritance
 
-Update Component class
-Add setState to React.Component
-Introduce rootDomElement and rootGeneratedElement so
-Add reRender function
+# STEP 05. HANDLE STATE
 
-STEP 06. HANDLE JSX
+## Update Component class
+## Add setState to React.Component
+## Introduce rootDomElement and rootGeneratedElement so
+## Add reRender function
 
-Add package.json with babels dependencies
-Add scripts parts
+# STEP 06. HANDLE JSX
+
+## Add package.json with babels dependencies
+## Add scripts parts
